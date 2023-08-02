@@ -1,9 +1,34 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "jobs": [
+    {
+      "id": "d0f1bf07-9d29-48f8-bbdc-9ecbed2528c7",
+      "logo": "https://icons.iconarchive.com/icons/github/octicons/256/copilot-96-icon.png",
+      "title": "Copilot AI",
+      "date": "2023-07-30T13:47:04.667Z",
+      "category": "developer",
+      "location": "USA",
+      "description": "GitHub Copilot is an AI pair programmer that offers autocomplete-style suggestions as you code. You can receive suggestions from GitHub Copilot either by starting to write the code you want to use, or by writing a natural language comment describing what you want the code to do.\n",
+      "status": "unfinished"
+    },
+    {
+      "id": "3e375377-c2af-4236-af92-6b2d8dc64d8d",
+      "logo": "https://softwarelist.oregonstate.edu/sites/softwarelist.oregonstate.edu/files/styles/software_image/public/software/slack.gif?itok=UDySX6zN",
+      "title": "Designer 1000",
+      "date": "2023-07-26T07:34:12.377Z",
+      "category": "design",
+      "location": "Japan",
+      "description": "A designer plays a key role in a creative company. Using elements like typography, illustration, photography and layouts, a designer always has an extremely creative mind that can absorb visual trends and deploy them in fresh and exciting ways.\n",
+      "status": "active"
+    },
+    {
+      "id": "f7f6aaa4-599c-4062-b49e-05b09bd82a83",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/8/84/Spotify_icon.svg",
+      "title": "Spotify marketing",
+      "date": "2023-07-27T07:25:13.849Z",
+      "category": "marketing",
+      "location": "Global",
+      "description": "Spotify is a digital music, podcast, and video service that gives you access to millions of songs and other content from creators all over the world. Basic functions such as playing music are totally free, but you can also choose to upgrade to Spotify Premium.\n",
+      "status": "completed"
+    }
+  ]
 }
